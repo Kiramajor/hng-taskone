@@ -1,0 +1,41 @@
+img{
+	max-width:200px;
+}
+div.img{
+		position:relative;
+		left:400px;
+}
+h1{
+	text-align:center;
+	font-family: Serif;
+	background-color:lightblue;
+	border: 1px hidden black;
+	padding:5px;
+	border-radius:10px;
+}
+.track{
+		text-align:center;
+		
+}
+.link a{
+			text-decoration:none;
+			text-align:center;
+}
+a{
+		text-align:center;
+		display:block;
+		text-decoration:none;
+		
+}
+body{
+		font-family:Serif;
+}
+#currentDayOfWeek{
+			text-align:center;
+			margin-top: 10px;
+}
+#utcTime{
+			text-align:center;
+			margin-top:10px;
+}
+
